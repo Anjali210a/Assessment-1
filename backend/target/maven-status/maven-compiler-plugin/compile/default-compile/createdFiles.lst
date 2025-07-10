@@ -1,0 +1,5 @@
+com/example/todo/Task.class
+com/example/todo/TodoListApplication.class
+com/example/todo/TaskService.class
+com/example/todo/TaskController.class
+com/example/todo/TaskRepository.class

@@ -1,1 +1,12 @@
-# Assessment-1
+# To-Do List Application
+
+## Technologies Used
+- Java Spring Boot (Backend)
+- MongoDB or PostgreSQL (Database)
+- Apache Kafka or WebSocket with STOMP (Real-time updates)
+- HTML (Frontend)
+
+## Features
+- Create, update, delete tasks (CRUD)
+- Real-time task updates
+- User-specific task management
