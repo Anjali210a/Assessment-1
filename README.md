@@ -6,7 +6,6 @@
 - Apache Kafka or WebSocket with STOMP (Real-time updates)
 - HTML (Frontend)
 
-https://github.com/Anjali210a/Assessment-1/blob/main/Vide.mp4
 
 
 ## Features
